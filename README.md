@@ -1,11 +1,17 @@
-Basic React Project displaying the user and having search funcitonality to search github for the user.
-The charts and data display the following:
-  User Info
-  Followers
-  Languages
-  Popular Repos
-  Stars
-  Forks
+# Github-Users
 
-For Charts- Fusion Charts
-    Data- Github API
+React Project displaying a static user and having search funcitonality to dynamically search github for the users.
+
+## Resources
+
+Charts: Fusion Charts
+Data: Github API
+
+### The charts and data display the following:
+
+User Info
+Followers
+Languages
+Popular Repos
+Stars
+Forks
