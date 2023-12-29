@@ -9,9 +9,9 @@ function App() {
         <Route path="/" exact={true}>
           <Dashboard/>
         </Route>
-        <Route path="/login">
+        {/* <Route path="/login">
           <Login/>
-        </Route>
+        </Route> */}
         <Route path="*" exact={true}>
           <Error/>
         </Route>
